@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'assets/flexboxgrid.css';
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+/* @import url('assets/flexboxgrid.css'); */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2 {
+  font-family: 'Charmonman', cursive;
+  padding: 1em;
+}
+
+p {
+  font-family: 'Indie Flower', cursive;
+}

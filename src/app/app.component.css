@@ -1,0 +1,21 @@
+article {
+  align-items: center;
+  background-color: #f7f7f7;
+  border: 1px solid #999;
+  border-radius: 3px;
+  color: steelblue;
+  display: flex;
+  font-family: sans-serif;
+  margin-bottom: 1em;
+  padding: 0.5em 1em;
+  width: 100%;
+}
+
+i {
+  background-color: indigo;
+  border: 1px solid indigo;
+  border-radius: 50%;
+  color: #ffffff;
+  margin-right: 1em;
+  padding: 0.3em;
+}
